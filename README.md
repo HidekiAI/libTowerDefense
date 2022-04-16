@@ -1,5 +1,5 @@
 # libTowerDefense
-view-less (of the C.M.V.) library for tower defense
+view-less (as in, control-model-view) library for tower defense to be used either as remote (server mode, including localhost loopbacks and named pipe), or local (statically linked async or blocking), agnostic of time passed sinced last call (untied from framerate)
 
 ## Why lib?
 
